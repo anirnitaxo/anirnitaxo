@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anirnitaxo
 - 👀 I’m interested in coding and blogging
-- 🌱 I’m currently learning pyhton and spanish
+- 🌱 I’m currently learning python and spanish
 - 💞️ I’m looking to collaborate on this plateform
 - 📫 You can reach me out anirnita2301@gmail.com
 
